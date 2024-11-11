@@ -44,7 +44,9 @@ The accuracy for the machine learning models used are:
 Below are the Confusion Matrices for the respective machine learning models:
 
 Logistic Regression
+
 ![App Screenshot](https://github.com/harrshyadav24/Home-Loan-Approval-Prediction/blob/main/Logistic%20Regression.png)
 
 Random Forest Classifier
+
 ![App Screenshot](https://github.com/harrshyadav24/Home-Loan-Approval-Prediction/blob/main/Random%20Forest%20Classifier.png)
